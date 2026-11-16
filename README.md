@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hey, I'm Ian 👋
 
-<!--
-**ianmwenja8-collab/ianmwenja8-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Engineer | Building, Learning & Growing Through Code
 
-Here are some ideas to get you started:
+I'm a Software Engineering student at Moringa School, passionate about turning ideas into working applications. I enjoy learning new technologies, solving problems, and building projects that help me grow as a developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies & Tools
+
+- **Languages:** Python, JavaScript, HTML, CSS
+- **Backend:** Flask
+- **Frontend:** React
+- **Tools:** Git, GitHub, VS Code
+- **Databases:** SQL
+
+### 🚀 What I'm Working On
+
+- Building web applications and REST APIs.
+- Improving my backend and frontend development skills.
+- Working on personal projects and software engineering challenges.
+
+### 📌 Featured Projects
+
+- **Jirani Services** – A platform connecting clients with local service providers.
+- **Workout API** – A Flask API for managing workouts and exercises.
+- **Personal Portfolio** – My personal space on the web.
+
+### 🎯 My Goals
+
+To grow into a skilled software developer, contribute to meaningful projects, collaborate with other developers, and gain real-world industry experience.
+
+### 🤝 Let's Connect
+
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/ian-mwenja-84b389450)
+- **Portfolio:** [Visit my portfolio](YOUR_PORTFOLIO_URL)
+- **GitHub:** [Explore my repositories](YOUR_GITHUB_URL)
+- **Email:** (ianmwenja8@gmail.com)
+
+---
+
+*Always learning. Always building. Always improving.* 🚀
