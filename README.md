@@ -32,7 +32,7 @@ To grow into a skilled software developer, contribute to meaningful projects, co
 
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/ian-mwenja-84b389450)
 - **Portfolio:** [Visit my portfolio](YOUR_PORTFOLIO_URL)
-- **GitHub:** [Explore my repositories](YOUR_GITHUB_URL)
+- **GitHub:** [Explore my repositories](https://github.com/ianmwenja8-collab)
 - **Email:** (ianmwenja8@gmail.com)
 
 ---
